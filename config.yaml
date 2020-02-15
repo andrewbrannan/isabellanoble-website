@@ -1,0 +1,50 @@
+languageCode: "en-us"
+title: "Isabella Noble"
+theme: "hugo-freelancer-theme"
+params:
+    name: "Isabella Noble"
+    description: "CV, Portfolio and Blog"
+    email: "andrew.brannan@gmail.com"
+    navigation:
+        brand: "Isabella Noble"
+    header:
+        image: "in_headshot.png"
+        name: "Isabella Noble"
+        subtitle: "Travel Journalist"
+    portfolio:
+        title: "Guidebooks"
+        modal:
+            client: "Client"
+            date: "Date"
+            category: "Category"
+            buttontext: "Close"
+    about:
+        title: "About"
+        left: "English-Australian on paper but Spanish at heart, London-based travel journalist Isabella has been wandering the globe since her first round-the-world trip as a one-year-old. Having grown up in a whitewashed Andalucian village (and picking up a lifelong malagueño accent), she is a Spain specialist, but also writes extensively about India, Southeast Asia, Greece, the UK and beyond."
+        right: "She writes for Lonely Planet, Telegraph Travel, Etihad Airways's Atlas magazine and various other print and digital media. Isabella also works as a sub-editor, is a Spain expert for Telegraph Travel and has contributed to over 30 Lonely Planet guides, from Pocket Ibiza and Pocket Phuket to multiple editions of India, Spain and Andalucía."
+    contact:
+        title: "Get In Touch"
+        form:
+            name:
+                text: "Name"
+                error: "Please enter your name"
+            email:
+                text: "Email Address"
+                error: "Please enter your email address"
+            message:
+                text: "Message"
+                error: "Please enter a message"
+            button:
+                text: "Send"
+    footer:
+        copyright: "Isabella Noble 2020"
+        social:
+            title: "Follow Me"
+            networks:
+                - icon: "fa-instagram"
+                  link: "//instagram.com/isabellamnoble"
+                - icon: "fa-twitter"
+                  link: "//twitter.com/isabellamnoble"
+                - icon: "fa-linkedin"
+                  link: "//linkedin.com/in/isabella-noble-89233631"
+                
