@@ -13,7 +13,7 @@ params:
         subtitle: "Travel Journalist"
     portfolio:
         modal:
-            client: "Client"
+            client: "!!!!!Client"
             date: "Date"
             category: "Category"
             buttontext: "Close"
