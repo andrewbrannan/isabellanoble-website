@@ -12,7 +12,6 @@ params:
         name: "Isabella Noble"
         subtitle: "Travel Journalist"
     portfolio:
-        title: "Guidebooks"
         modal:
             client: "Client"
             date: "Date"
@@ -38,13 +37,12 @@ params:
                 text: "Send"
     footer:
         copyright: "Isabella Noble 2020"
-        social:
-            title: "Follow Me"
-            networks:
-                - icon: "fa-instagram"
-                  link: "//instagram.com/isabellamnoble"
-                - icon: "fa-twitter"
-                  link: "//twitter.com/isabellamnoble"
-                - icon: "fa-linkedin"
-                  link: "//linkedin.com/in/isabella-noble-89233631"
+    social:
+        networks:
+            - icon: "fa-instagram"
+              link: "//instagram.com/isabellamnoble"
+            - icon: "fa-twitter"
+              link: "//twitter.com/isabellamnoble"
+            - icon: "fa-linkedin"
+              link: "//linkedin.com/in/isabella-noble-89233631"
                 
