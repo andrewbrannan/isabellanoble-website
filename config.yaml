@@ -1,6 +1,6 @@
 languageCode: "en-us"
 title: "Isabella Noble"
-baseURL: "https://andrewbrannan.github.io/isabellanoble.com/"
+baseURL: "https://andrewbrannan.github.io/isabellanoble-website/"
 publishDir: "docs"
 params:
     name: "Isabella Noble"
