@@ -1,0 +1,25 @@
+{{ "<!-- Portfolio Grid Section -->" | safeHTML }}
+<section id="portfolio-{{ md5 .info.title }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>{{ .info.title }}</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            {{ range $key,$work := .works }}
+            <div class="col-sm-4 portfolio-item">
+                <a href="#portfolioModal-{{ md5 $key }}" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img src="img/portfolio/{{ $work.img }}" class="img-responsive portfolio-img">
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>

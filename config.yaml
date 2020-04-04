@@ -1,6 +1,5 @@
 languageCode: "en-us"
 title: "Isabella Noble"
-theme: "hugo-freelancer-theme"
 params:
     name: "Isabella Noble"
     description: "CV, Portfolio and Blog"
