@@ -36,7 +36,7 @@ params:
             button:
                 text: "Send"
     footer:
-        copyright: "Isabella Noble 2020"
+        copyright: "© Isabella Noble 2020"
     social:
         networks:
             - icon: "fa-instagram"
