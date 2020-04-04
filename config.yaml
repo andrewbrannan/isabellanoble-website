@@ -1,5 +1,6 @@
 languageCode: "en-us"
 title: "Isabella Noble"
+publishDir: "docs"
 params:
     name: "Isabella Noble"
     description: "CV, Portfolio and Blog"
