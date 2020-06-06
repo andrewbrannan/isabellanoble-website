@@ -12,6 +12,7 @@
 {{ range .Site.Params.custom_css }}
 <link rel="stylesheet" href="{{ . | absURL }}">
 {{ end }}
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
 {{ "<!-- Custom Fonts -->" | safeHTML }}
 <link href="{{ .Site.BaseURL }}css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
