@@ -3,9 +3,29 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+/* Arctic Sunrise 
+:root {
+    --light-color: #E2E8E4;
+    --darker-color: #006C84;
+    --white: #E2E8E4;
+    --highlight-1: #357685;
+    --highlight-2: #FFCCBB;
+}
+*/
+
+/* Grecian Holiday */
+:root {
+    --light-color: #F4EADE;
+    --darker-color: #2F496E;
+    --white: #F4EADE;
+    --highlight-1: #2988BC;
+    --highlight-2: #ED8C72;
+}
 
 body {
     overflow-x: hidden;
+    background-color: var(--white);
+    color: var(--darker-color);
 }
 
 p {
@@ -22,7 +42,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: var(--light-color);
 }
 
 h1,
@@ -34,6 +54,7 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    color: var(--darker-color);
 }
 
 hr.star-light,
@@ -58,21 +79,21 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: var(--highlight-2);
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    color: var(--white);
+    background-color: var(--light-color);
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: var(--highlight-2);
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    color: var(--darker-color);
+    background-color: var(--white);
 }
 
 .img-centered {
@@ -81,8 +102,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: var(--dark-color);
+    background: var(--light-color);
 }
 
 header .container {
@@ -157,12 +178,41 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav .active a:focus {
+    background-color: var(--highlight-2);
+}
+
+.navbar-default .navbar-nav li a {
+    color: var(--white);
+}
+
+.navbar-default .navbar-brand {
+    color: var(--white);
+}
+.navbar-default .navbar-brand:focus
+{
+    color: var(--white);
+}
+
+.navbar-default .navbar-brand:hover{
+    color: var(--highlight-2);
+}
+
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+    color: var(--white);
+}
+
+.navbar .navbar-nav li a:hover {
+    color: var(--highlight-2);
+}
+
+.navbar-default {
+    background-color: var(--darker-color);
 }
 
 .navbar-default,
@@ -180,8 +230,8 @@ section h2 {
 }
 
 section.success {
-    color: #2c3e50;
-    background: #FFFFFF;
+    color: var(--darker-color);
+    background: var(--white);
 }
 
 section.success a,
@@ -190,7 +240,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2c3e50;
+    color: var(--darker-color);
 }
 
 @media(max-width:767px) {
@@ -229,7 +279,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: var(--highlight-1);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -247,7 +297,7 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: var(--darker-color);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -269,29 +319,41 @@ section.success a.active {
     }
 }
 
+.btn-success {
+    background-color: var(--darker-color);
+    border-color: var(--darker-color);
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active {
+    background-color: var(--highlight-2);
+    border-color: var(--highlight-2);
+}
+
+
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px var(--darker-color);
     font-size: 20px;
-    color: #fff;
+    color: var(--darker-color);
     background: 0 0;
     transition: all .3s ease-in-out;
 }
 
 .btn-outline:hover,
 .btn-outline:focus,
-.btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #18bc9c;
-    background: #fff;
+    border: solid 2px var(--darker-color);
+    color: var(--light-color);
+    background: var(--darker-color);
 }
 
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--darker-color);
 }
 
 .floating-label-form-group input,
@@ -306,6 +368,7 @@ section.success a.active {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    text-color: var(--highlight-2);
 }
 
 .floating-label-form-group label {
@@ -315,7 +378,7 @@ section.success a.active {
     top: 2em;
     margin: 0;
     font-size: .85em;
-    line-height: 1.764705882em;
+    line-height: 1.764705882;
     vertical-align: middle;
     vertical-align: baseline;
     opacity: 0;
@@ -327,7 +390,7 @@ section.success a.active {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid var(--highlight-2);
 }
 
 .floating-label-form-group-with-value label {
@@ -336,15 +399,15 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: var(--light-color);
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid var(--darker-color);
 }
 
 footer {
-    color: #fff;
+    color: var(--white);
 }
 
 footer h3 {
@@ -353,7 +416,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: var(--darker-color);
 }
 
 footer .footer-col {
@@ -362,14 +425,15 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: var(--darker-color);
 }
 
 .btn-social {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    outline-color: var(--dark-color)
+    border: 2px solid var(--dark-color);
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
@@ -446,7 +510,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: var(--darker-color);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -456,7 +520,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: var(--darker-color);
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
