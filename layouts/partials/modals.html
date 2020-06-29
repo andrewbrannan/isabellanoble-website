@@ -1,7 +1,7 @@
 {{ "<!-- Portfolio Modals -->" | safeHTML }}
 {{ range $portfolio_num,$data := .Site.Data }}
-{{ range $key,$work := $data.works }}
-<div class="portfolio-modal modal fade" id="portfolioModal-{{ md5 $key }}" tabindex="-1" role="dialog" aria-hidden="true">
+{{ range $key,$work := $data.works.books }}
+<div class="portfolio-modal modal fade" id="portfolioModal-{{ md5 $key }}{{ md5 $work.title }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
             <div class="lr">

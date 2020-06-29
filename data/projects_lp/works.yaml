@@ -1,0 +1,208 @@
+books:
+    - title: Greek Islands 11
+      date: March 2020
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/greek-islands-11
+      category: Guidebooks
+      description: "Writer: Evia & the Sporades"
+      img: greek-islands-11.png
+
+    - title: Canary Islands 7
+      img: canary-islands-7.jpg
+      date: January 2020
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/canary-islands-7
+      category: Guidebooks
+      description: "Writer: Lanzarote, El Hierro, La Gomera. Curator: full title."
+
+    - title: The Vegan Travel Handbook
+      date: Dec 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/the-vegan-travel-handbook-1
+      category: Guidebooks
+      description: Contributing Writer
+      img: vegan-travel-handbook-v2.jpg
+
+    - title: Best in Travel 2020
+      date: Oct 2019
+      client: Lonely Planet
+      category: Guidebooks
+      description: Contributing Writer
+      img: best-in-travel-2020.jpg
+      clientLink: https://shop.lonelyplanet.com/products/lonely-planets-best-in-travel-2020
+
+    - img: india-18.jpg
+      title: India 18
+      date: October 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/india-18
+      category: Guidebooks
+      description: "Writer & Curator: Kerala, Andaman Islands"
+
+    - img: south-india-and-kerala-10.png
+      title: South India & Kerala 10
+      date: October 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/south-india-and-kerala-10
+      category: Guidebooks
+      description: "Writer & Curator: Kerala, Andaman Islands, Planning & Background."
+
+    - img: pocket-phuket-5.jpg
+      title: Pocket Phuket 5
+      date: July 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/pocket-phuket-5
+      category: Guidebooks
+      description: Writer & Curator
+
+    - title: Experience Spain
+      date: Apr 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/experience-spain-1
+      category: Guidebooks
+      description: Contributing Writer
+      img: experience-spain.jpg
+
+    - title: Andalucía 9
+      date: Jan 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/andalucia-travel-guide-9
+      category: Guidebooks
+      description: Writer (Cádiz Province/Gibraltar) & Curator
+      img: andalucia-9.jpg
+
+    - img: pocket-ibiza-2.jpg
+      title: Pocket Ibiza 2
+      date: December 2018
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/pocket-ibiza-2
+      category: Guidebooks
+      description: Writer & Curator
+
+    - title: Spain 12
+      date: Nov 2018
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/spain-travel-guide-12
+      category: Guidebooks
+      description: "Writer: Catalonia, Menorca, Ibiza & Formentera, Andalucía, Andorra"
+      img: spain-12.jpg
+
+    - title: Descubrir Xixón/Gijón
+      img: gijon.jpg
+      date: Feb 2018
+      client: Lonely Planet
+      clientLink: https://www.gijon.es/es/publicaciones/lonely-planet-descubrir-gijonxixon
+      category: Guidebooks
+      description: "Editor (Spanish)"
+
+    - title: India 17
+      date: Oct 2017
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/india-18
+      category: Guidebooks
+      description: "Writer: Tamil Nadu & Chennai; Curator: Tamil Nadu & Chennai, Karnataka & Bengaluru, Goa, Kerala, Andaman Islands, Telangana & Andhra Pradesh"
+      img: india-17.jpg
+
+    - title: South India & Kerala 9
+      date: Oct 2017
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/south-india-and-kerala-10
+      category: Guidebooks
+      description: "Writer: Tamil Nadu & Chennai; Curator: Tamil Nadu & Chennai, Karnataka & Bengaluru, Goa, Kerala, Andaman Islands, Telangana & Andhra Pradesh"
+      img: south-india-9.jpg
+
+    - title: Great Britain 12
+      date: May 2017
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/great-britain-travel-guide-13
+      category: Guidebooks
+      description: "Writer: Oxford, Cotswolds & Around"
+      img: great-britain-12.png
+
+    - title: England 9
+      date: Apr 2017
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/england-travel-guide-10
+      category: Guidebooks
+      description: "Writer: Oxford, Cotswolds & Around"
+      img: england-9.jpg
+
+    - title: The Honeymoon Handbook
+      date: Jan 2017
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/the-honeymoon-handbook-1
+      category: Guidebooks
+      description: Contributing Writer
+      img: honeymoon-handbook.jpg
+
+    - title: Spain 11
+      date: Nov 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/spain-travel-guide-12
+      category: Guidebooks
+      description: "Writer: Andalucía, Extremadura, Cantabria & Asturias"
+      img: spain-11.jpg
+
+    - title: Pocket Phuket 4
+      date: Jul 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/pocket-phuket-5
+      category: Guidebooks
+      description: Writer
+      img: pocket-phuket-4.jpg
+
+    - title: Thailand's Islands & Beaches 10
+      date: Jul 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/thailands-islands-beaches-11
+      category: Guidebooks
+      description: "Writer: Phuket & the Andaman Coast"
+      img: tib-10.gif
+
+    - title: Thailand 16
+      date: Jul 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/thailand-travel-guide-17
+      category: Guidebooks
+      description: "Writer: Phuket & the Andaman Coast"
+      img: thailand-16.jpg
+
+    - title: Spain & Portugal's Best Trips
+      date: Feb 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/spain-portugals-best-trips-1
+      category: Guidebooks
+      description: Contributing Writer
+      img: spain-portugal-best-trips.jpg
+
+    - title: Andalucía 8
+      date: Jan 2016
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/andalucia-travel-guide-9
+      category: Guidebooks
+      description: "Writer: Cádiz, Huelva & Sevilla Provinces, Gibraltar"
+      img: andalucia-8.gif
+
+    - title: South India & Kerala 8
+      date: Oct 2015
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/south-india-and-kerala-10
+      category: Guidebooks
+      description: "Writer: Tamil Nadu & Chennai"
+      img: south-india-8.jpg
+
+    - title: India 16
+      date: Oct 2015
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/india-18
+      category: Guidebooks
+      description: "Writer: Tamil Nadu & Chennai"
+      img: india-16.jpg
+
+    - title: Spain 10
+      date: Nov 2014
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/spain-travel-guide-12
+      category: Guidebooks
+      description: "Writer: Cantabria & Asturias"
+      img: spain-10.jpg

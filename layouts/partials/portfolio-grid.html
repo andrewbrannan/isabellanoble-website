@@ -8,9 +8,9 @@
             </div>
         </div>
         <div class="row">
-            {{ range $key,$work := .works }}
+            {{ range $key,$work := .works.books }}
             <div class="col-sm-3 portfolio-item">
-                <a href="#portfolioModal-{{ md5 $key }}" class="portfolio-link" data-toggle="modal">
+                <a href="#portfolioModal-{{ md5 $key }}{{ md5 $work.title }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
                             <i class="fa fa-search-plus fa-3x"></i>
