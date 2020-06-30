@@ -19,8 +19,8 @@ params:
             buttontext: "Close"
     about:
         title: "About"
-        left: "English-Australian on paper but Spanish at heart, London-based travel journalist Isabella has been wandering the globe since her first round-the-world trip as a one-year-old. Having grown up in a whitewashed Andalucian village (picking up a lifelong malagueño accent), she is a bilingual Spain specialist, but also writes extensively about India, Southeast Asia, Greece, the UK and beyond.        "
-        right: "Isabella has lived in London, Melbourne and Andalucía, and writes for Lonely Planet, Telegraph Travel, Ink Global and other print and digital media. She also works as a sub-editor, is a Spain expert for Telegraph Travel and has contributed to over 30 Lonely Planet titles, including multiple editions of Spain, Andalucía, India, South India, Thailand, Greece and Great Britain, as well was Pocket Phuket, Pocket Ibiza and Pocket Barcelona.         "
+        left: "English-Australian on paper but Spanish at heart, London-based travel journalist Isabella has been wandering the globe since her first round-the-world trip as a one-year-old. Having grown up in a whitewashed Andalucian mountain village (picking up a lifelong malagueño accent and love for sunny shores), she is a bilingual Spain specialist, but also writes extensively about India, Southeast Asia, Greece, the UK and beyond.        "
+        right: "Isabella has lived in London, Melbourne and Andalucía, and writes for Lonely Planet, Telegraph Travel, Ink Global and other print and digital media. She also works as a sub-editor, is a Spain expert for Telegraph Travel and has contributed to over 30 Lonely Planet titles, including multiple editions of Spain, Andalucía, India, South India, Thailand, Greece and Great Britain, as well as Pocket Phuket, Pocket Ibiza and Pocket Barcelona.         "
     contact:
         title: "Get In Touch"
         form:
