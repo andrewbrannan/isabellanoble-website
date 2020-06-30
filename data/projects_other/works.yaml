@@ -6,3 +6,53 @@ books:
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/andalusia/malaga/articles/the-best-boutique-hotels-in-malaga/
       category: Other Work
       description: Writer 
+      
+    - title: What to expect when the Canary Islands reopen to travellers
+      date: Jun 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/canary-islands-reopening
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+      
+    - title: Five summer holiday ideas to Spain's lesser-known spots
+      date: Jun 2020
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/articles/dream-trips-quieter-spain/
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+      
+     - title: Hotels in Spain are allowed to reopen to guests as lockdown eases
+      date: May 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/hotels-spain-reopen-lockdown-eases
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+      
+    - title: Where to find the best beaches in Spain
+      date: Feb 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/best-beaches-in-spain
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+
+    - title: Andalucian escape: Vejer de la Frontera
+      date: Dec 2019
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/andalucian-escape-vejer-de-la-frontera/index.html
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+      
+    - title: Five stops in El Born, Barcelona
+      date: Nov 2019
+      client: Atlas by Etihad (Ink Global)
+      clientLink: https://atlas.etihad.com/five-stops-in-el-born-barcelona/
+      category: Other Work
+      description: Writer
+      img: best-boutique-hotels-in-malaga.png
+      
+  
