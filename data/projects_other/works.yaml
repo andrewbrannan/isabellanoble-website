@@ -1,6 +1,4 @@
 books:
-  
-      
     - title: What to expect when the Canary Islands reopen to travellers
       date: Jun 2020
       client: Lonely Planet
@@ -31,7 +29,7 @@ books:
       clientLink: https://www.lonelyplanet.com/articles/best-beaches-in-spain
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: bb-spain.png
       
     - img: best-boutique-hotels-in-malaga.png
       title: Best Boutique Hotels in Málaga
@@ -41,7 +39,7 @@ books:
       category: Other Work
       description: Writer 
       
-    - img: best-boutique-hotels-in-malaga.png
+    - img: most-romantic-malaga.png
       title: Best Romantic Hotels in Málaga
       date: Jan 2020
       client: Telegraph Travel
@@ -49,7 +47,7 @@ books:
       category: Other Work
       description: Writer 
       
-    - img: best-boutique-hotels-in-malaga.png
+    - img: malaga-on-budg.png
       title: Best Budget Hotels in Málaga
       date: Jan 2020
       client: Telegraph Travel
@@ -71,15 +69,15 @@ books:
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/the-best-family-beach-holiday-in-menorca/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: menorca-fam.png
       
-    - title: Doñana: Andalucía’s most beautiful national park
+    - title: "Doñana: Andalucía’s most beautiful national park"
       date: Dec 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/andalucias-most-beautiful-national-park/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: anda-nat-park.png
       
     - title: The glorious Galician coastline
       date: Dec 2019
@@ -87,23 +85,23 @@ books:
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/the-glorious-galician-coastline/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: glorious-galician.png
       
-    - title: La Gomera: Hiking heaven in the Canaries
+    - title: "La Gomera: Hiking heaven in the Canaries"
       date: Dec 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/hiking-heaven-in-the-canaries/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: hiking-heaven.png
       
-    - title: Cazorla & Andújar: Wild adventures in Andalucía
+    - title: "Cazorla & Andújar: Wild adventures in Andalucía"
       date: Dec 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/wild-adventures-in-andalucia/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: wild-adventures.png
       
     - title: Walking in the Spanish Pyrenees
       date: Dec 2019
@@ -111,7 +109,7 @@ books:
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/walking-in-the-spanish-pyrenees/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: walk-pyrenees.png
       
     - title: Walk Spain's wild Camino Primitivo
       date: Dec 2019
@@ -119,7 +117,7 @@ books:
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/walk-the-wild-camino-primitivo/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: walk-the-wild.png
       
     - title: Five stops in El Born, Barcelona
       date: Nov 2019
@@ -129,13 +127,13 @@ books:
       description: Writer
       img: five-stops-el-born.png
       
-    - title: Taste the best of Cádiz: seafood, sherry and southern Spanish cuisine
+    - title: "Taste the best of Cádiz: seafood, sherry and southern Spanish cuisine"
       date: Sep 2019
       client: Lonely Planet
       clientLink: https://www.lonelyplanet.com/articles/taste-best-cadiz-seafood-sherry-southern-spanish-cuisine
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: taste-best-of-cadiz.png
       
     - title: Which of the Canary Islands is right for you?
       date: Aug 2019
@@ -143,23 +141,23 @@ books:
       clientLink: https://www.lonelyplanet.com/articles/choose-right-canary-island
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: which-canarias.png
       
-    - title: Santander: the coastal city that comes alive for the summer
+    - title: "Santander: the coastal city that comes alive for the summer"
       date: Jul 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/cantabria/santander/articles/santander-city-break-what-to-do-where-to-stay/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: do-as-spanish.png
       
-    - title: Oviedo: what to see and do in Spain's divine city of cider
+    - title: "Oviedo: what to see and do in Spain's divine city of cider"
       date: May 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/asturias/oviedo-city-guide-see-and-do/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: oviedo.png
       
     - title: The audiobooks that will inspire you to travel the world
       date: May 2019
@@ -167,15 +165,15 @@ books:
       clientLink: https://www.telegraph.co.uk/travel/arts-and-culture/the-audiobooks-that-will-inspire-you-to-travel-the-world/
       category: Other Work
       description: Contributing Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: audiobooks.png
       
-    - title: Girona: why this uncrowded alternative to Barcelona should be your next city break
+    - title: "Girona: why this uncrowded alternative to Barcelona should be your next city break"
       date: Apr 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/catalonia/articles/girona-travel-guide-see-and-do/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: why-this-uncr.png
       
     - title: Where to get a health kick in Kerala
       date: Jun 2018
@@ -183,6 +181,6 @@ books:
       clientLink: https://atlas.etihad.com/best-health-kick-kerala/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: health-kerala.png
       
   
