@@ -1,15 +1,23 @@
 books:
     - title: Greek Islands 11
-      date: March 2020
+      date: Mar 2020
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/greek-islands-11
       category: Guidebooks
       description: "Writer: Evia & the Sporades"
       img: greek-islands-11.png
+      
+    - title: Greece 14
+      date: Mar 2020
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/greece-14
+      category: Guidebooks
+      description: "Writer: Evia & the Sporades"
+      img: greece14.jpg
 
     - title: Canary Islands 7
       img: canary-islands-7.jpg
-      date: January 2020
+      date: Jan 2020
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/canary-islands-7
       category: Guidebooks
@@ -33,7 +41,7 @@ books:
 
     - img: india-18.jpg
       title: India 18
-      date: October 2019
+      date: Oct 2019
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/india-18
       category: Guidebooks
@@ -41,7 +49,7 @@ books:
 
     - img: south-india-and-kerala-10.png
       title: South India & Kerala 10
-      date: October 2019
+      date: Oct 2019
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/south-india-and-kerala-10
       category: Guidebooks
@@ -49,7 +57,7 @@ books:
 
     - img: pocket-phuket-5.jpg
       title: Pocket Phuket 5
-      date: July 2019
+      date: Jul 2019
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/pocket-phuket-5
       category: Guidebooks
@@ -73,7 +81,7 @@ books:
 
     - img: pocket-ibiza-2.jpg
       title: Pocket Ibiza 2
-      date: December 2018
+      date: Dec 2018
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/pocket-ibiza-2
       category: Guidebooks
