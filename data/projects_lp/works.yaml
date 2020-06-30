@@ -13,7 +13,7 @@ books:
       clientLink: https://shop.lonelyplanet.com/products/greece-14
       category: Guidebooks
       description: "Writer: Evia & the Sporades"
-      img: greece14.jpg
+      img: greece-14.jpg
 
     - title: Canary Islands 7
       img: canary-islands-7.jpg
@@ -158,7 +158,7 @@ books:
       clientLink: https://shop.lonelyplanet.com/products/spain-travel-guide-12
       category: Guidebooks
       description: "Writer: Andalucía, Extremadura, Cantabria & Asturias"
-      img: spain11.jpeg
+      img: spain-11.jpeg
 
     - title: Pocket Phuket 4
       date: Jul 2016

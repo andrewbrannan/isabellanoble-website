@@ -7,7 +7,7 @@ books:
       clientLink: https://www.lonelyplanet.com/articles/canary-islands-reopening
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: canarias-reopening.png
       
     - title: Five summer holiday ideas to Spain's lesser-known spots
       date: Jun 2020
@@ -15,15 +15,15 @@ books:
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/articles/dream-trips-quieter-spain/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: five-summer-holidays.png
       
-     - title: Hotels in Spain are allowed to reopen to guests as lockdown eases
+    - title: Hotels in Spain are allowed to reopen to guests as lockdown eases
       date: May 2020
       client: Lonely Planet
       clientLink: https://www.lonelyplanet.com/articles/hotels-spain-reopen-lockdown-eases
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: hotels-in-spain-lockdown.png
       
     - title: Where to find the best beaches in Spain
       date: Feb 2020
@@ -57,13 +57,13 @@ books:
       category: Other Work
       description: Writer 
 
-    - title: Andalucian escape: Vejer de la Frontera
+    - title: "Andalucian escape: Vejer de la Frontera"
       date: Dec 2019
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/guides/dream-trips/destination/andalucian-escape-vejer-de-la-frontera/index.html
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: anda-escape.png
       
     - title: The best family beach holiday in Menorca
       date: Dec 2019
@@ -127,7 +127,7 @@ books:
       clientLink: https://atlas.etihad.com/five-stops-in-el-born-barcelona/
       category: Other Work
       description: Writer
-      img: best-boutique-hotels-in-malaga.png
+      img: five-stops-el-born.png
       
     - title: Taste the best of Cádiz: seafood, sherry and southern Spanish cuisine
       date: Sep 2019
