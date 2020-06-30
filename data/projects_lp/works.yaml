@@ -54,6 +54,14 @@ books:
       clientLink: https://shop.lonelyplanet.com/products/south-india-and-kerala-10
       category: Guidebooks
       description: "Writer & Curator: Kerala, Andaman Islands, Planning & Background."
+      
+    - title: Ultimate UK Travelist
+      date: Aug 2019
+      client: Lonely Planet
+      clientLink: https://shop.lonelyplanet.com/products/ultimate-uk-travelist-1
+      category: Guidebooks
+      description: Contributing Writer
+      img: ultimateuk.jpg
 
     - img: pocket-phuket-5.jpg
       title: Pocket Phuket 5
