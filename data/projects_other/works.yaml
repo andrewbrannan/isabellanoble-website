@@ -23,6 +23,13 @@ books:
       description: Writer
       img: hotels-in-spain-lockdown.png
       
+    - title: Coronavirus dispatches: writers around Europe share their experiences
+      date: Mar 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/europe-coronavirus-experience
+      category: Other Work 
+      img: hotels-in-spain-lockdown.png
+      
     - title: Where to find the best beaches in Spain
       date: Feb 2020
       client: Lonely Planet
@@ -48,7 +55,7 @@ books:
       description: Writer 
       
     - img: malaga-on-budg.png
-      title: Best Budget Hotels in Málaga
+      title:  Málaga on a budget: affordable hotels in Spain's reborn cultural hotspot
       date: Jan 2020
       client: Telegraph Travel
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/andalusia/malaga/articles/best-budget-hotels-malaga/
@@ -127,6 +134,14 @@ books:
       description: Writer
       img: five-stops-el-born.png
       
+      
+    - title: The best luxury hotels in Málaga
+      date: Oct 2019
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/andalusia/malaga/articles/best-luxury-hotels-in-malaga/
+      category: Other Work 
+      img: five-stops-el-born.png
+      
     - title: "Taste the best of Cádiz: seafood, sherry and southern Spanish cuisine"
       date: Sep 2019
       client: Lonely Planet
@@ -141,6 +156,13 @@ books:
       clientLink: https://www.lonelyplanet.com/articles/choose-right-canary-island
       category: Other Work
       description: Writer
+      img: which-canarias.png
+      
+    - title: 10 of the best parties in Ibiza this summer
+      date: Jul 2019
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/best-parties-ibiza
+      category: Other Work 
       img: which-canarias.png
       
     - title: "Santander: the coastal city that comes alive for the summer"
@@ -175,6 +197,30 @@ books:
       description: Writer
       img: why-this-uncr.png
       
+    - title: Phuket Town: the thai holiday island's cultural capital
+      date: Jan 2019
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/exploring-phuket-town-the-thai-holiday-isles-cultural-capital
+      category: Other Work
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Tarifa: the Costa de la Luz's outdoors capital
+      date: Nov 2018
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/tarifa-costa-de-la-luz-outdoors-capital
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Castles, cliff-tops & caves: exploring the white towns of Cádiz
+     date: Oct 2018
+     client: Lonely Planet
+     clientLink: https://www.lonelyplanet.com/articles/castles-cliff-tops-and-caves-exploring-cadiz-white-towns
+     category: Other Work 
+     description: Writer
+     img: why-this-uncr.png
+      
     - title: Where to get a health kick in Kerala
       date: Jun 2018
       client: Atlas by Etihad (Ink Global)
@@ -183,4 +229,51 @@ books:
       description: Writer
       img: health-kerala.png
       
+    - title: Cantabria: an expert guide
+      date: May 2018
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/cantabria/
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Sultry southern Thailand: a guide to the Trang Islands
+      date: Jun 2016
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/sultry-southern-thailand-a-guide-to-the-trang-islands
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Unexplored Spain: road-tripping around Extremadura
+      date: May 2016
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/unexplored-spain-roadtripping-around-extremadura
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: 20 destinations for 2015: Chettinadu, South India
+      date: Dec 2014
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/asia/india/articles/20-destinations-for-2015-Chettinadu-South-India/
+      category: Other Work
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Chennai for foodies: a guide to South India's finest dining scene
+      date: Oct 2014
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/chennai-for-foodies-a-lonely-planet-guide-to-south-indias-finest-dining-scene
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
+      
+    - title: Secret Seaside: Ribadesella, Spain
+      date: Jun 2014
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/articles/Ribadesella-Spain-Secret-Seaside/
+      category: Other Work 
+      description: Writer
+      img: why-this-uncr.png
   
