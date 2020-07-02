@@ -10,13 +10,16 @@
         <div class="row">
             {{ range $key,$work := .works.books }}
             <div class="col-sm-3 portfolio-item">
+                {{ $resources := .Resources.ByType "image"}}
                 <a href="#portfolioModal-{{ md5 $key }}{{ md5 $work.title }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/portfolio/{{ $work.img }}" class="img-responsive portfolio-img">
+                    {{ $image := resources.Get "images/and8.jpg" }}
+                    {{ $image := $image.Resize "500x" }}
+                    <img src="{{ $image.Permalink }}" class="img-responsive portfolio-img">
                 </a>
             </div>
             {{ end }}
