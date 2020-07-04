@@ -11,10 +11,16 @@
             {{ $resources := .Resources.ByType "image"}}
             {{ range $key,$work := .works.books }}
             <div class="col-sm-3 portfolio-item">
-                <a href="#portfolioModal-{{ md5 $key }}{{ md5 $work.title }}" class="portfolio-link" data-toggle="modal">
+                <a href="{{ $work.clientLink }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
+                            {{ $work.title }}
+                            <br>
+                            {{ $work.date }}
+                            <br>
+                            {{ $work.client }}
+                            <br>
+                            {{ $work.description }}
                         </div>
                     </div>
                     {{ $image_path := (printf "%s%s" "images/" $work.img ) }}
