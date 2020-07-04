@@ -14,13 +14,16 @@
                 <a href="{{ $work.clientLink }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
-                            {{ $work.title }}
+                            <b>Title: </b>{{ $work.title }}
                             <br>
-                            {{ $work.date }}
                             <br>
-                            {{ $work.client }}
+                            <b>Date: </b>{{ $work.date }}
                             <br>
-                            {{ $work.description }}
+                            <b>Client: </b>{{ $work.client }}
+                            {{range $work.extraFields }}
+                                <br>
+                                <b>{{ .title }}:</b> {{ .content }}
+                            {{ end }}
                         </div>
                     </div>
                     {{ $image_path := (printf "%s%s" "images/" $work.img ) }}

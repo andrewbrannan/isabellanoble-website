@@ -13,6 +13,11 @@ books:
       clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/articles/dream-trips-quieter-spain/
       category: Other Work
       description: Writer
+      extra-fields:
+        - title: Writer
+          content: things
+        - title: Curator
+          content: Stuff
       img: five-summer-holidays.png
       
     - title: Hotels in Spain are allowed to reopen to guests as lockdown eases

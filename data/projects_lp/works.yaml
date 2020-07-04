@@ -21,7 +21,11 @@ books:
       client: Lonely Planet
       clientLink: https://shop.lonelyplanet.com/products/canary-islands-7
       category: Guidebooks
-      description: "Writer: Lanzarote, El Hierro, La Gomera. Curator: full title."
+      extraFields:
+        - title: Writer
+          content: Lanzarote, El Hierro, La Gomera
+        - title: Curator
+          content: Full title
 
     - title: The Vegan Travel Handbook
       date: Dec 2019
