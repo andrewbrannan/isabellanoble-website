@@ -19,7 +19,7 @@
                     </div>
                     {{ $image_path := (printf "%s%s" "images/" $work.img ) }}
                     {{ $image := resources.Get $image_path }}
-                    {{ $image := $image.Resize "500x" }}
+                    {{ $image := $image.Resize "300x" }}
                     <img src="{{ $image.Permalink }}" class="img-responsive portfolio-img">
                 </a>
             </div>
