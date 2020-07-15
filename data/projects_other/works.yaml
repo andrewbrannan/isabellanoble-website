@@ -1,4 +1,12 @@
 books:
+    - title: What it's like to fly right now
+      date: Jul 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.com/articles/flying-right-now
+      category: Other Work
+      description: Writer
+      img: canarias-reopening.png
+      
     - title: What to expect when the Canary Islands reopen to travellers
       date: Jun 2020
       client: Lonely Planet
