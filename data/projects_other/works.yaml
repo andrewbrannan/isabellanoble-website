@@ -1,4 +1,21 @@
 books:
+      
+    - title: Why you should plan a getaway in Galicia
+      date: Aug 2020
+      client: Culture Trip
+      clientLink: https://theculturetrip.com/europe/spain/articles/why-you-should-plan-a-getaway-in-galicia/
+      category: Other Work
+      description: Writer
+      img: canarias-reopening.png
+      
+    - title: A postcard from Lanzarote, where holidays look different but are still as tempting as ever
+      date: Jul 2020
+      client: Telegraph Travel
+      clientLink: https://www.telegraph.co.uk/travel/destinations/europe/spain/canary-islands/lanzarote/articles/a-postcard-from-lanzarote-back-on-its-feet-with-new-rules/
+      category: Other Work
+      description: Writer
+      img: canarias-reopening.png
+      
     - title: What it's like to fly right now
       date: Jul 2020
       client: Lonely Planet
@@ -11,6 +28,15 @@ books:
       date: Jun 2020
       client: Lonely Planet
       clientLink: https://www.lonelyplanet.com/articles/canary-islands-reopening
+      category: Other Work
+      description: Writer
+      img: canarias-reopening.png
+      
+      
+    - title: Senderismo por El Hierro: 2 espectaculares rutas paisajísticas a pie (translated into Spanish)
+      date: Jun 2020
+      client: Lonely Planet
+      clientLink: https://www.lonelyplanet.es/blog/senderismo-por-el-hierro-2-espectaculares-rutas-paisajisticas-a-pie
       category: Other Work
       description: Writer
       img: canarias-reopening.png
